@@ -1,0 +1,8 @@
+file: mtcars.rds
+file_size: 544
+pin_hash: ed9ea4f9b5dd4ec9
+type: rds
+title: 'mtcars: a pinned 10 x 11 data frame'
+description: ~
+created: 20221202T165259Z
+api_version: 1.0

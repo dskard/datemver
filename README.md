@@ -34,3 +34,18 @@ semantic versioning of data
    ```
    data(add-column): added new columns to the data set
    ```
+
+3. Removing rows from a data set
+
+   ##### Result
+   Bump the major version because we have changed the shape of the data set in a way that could brake the way people previously read the data.
+
+   ##### Rule
+   ```
+   {"type": "data", "scope": "remove-row", "release": "major"},
+   ```
+
+   ##### Commit message
+   ```
+   data(remove-row): remove rows from the data set
+   ```

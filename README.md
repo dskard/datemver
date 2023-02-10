@@ -38,11 +38,11 @@ semantic versioning of data
 3. Removing rows from a data set
 
    ##### Result
-   Bump the major version because we have changed the shape of the data set in a way that could brake the way people previously read the data.
+   Bump the minor version because, although we have changed the shape of the data set, the number of columns stays the same and it should not impact (as much?) how data is read by a program.
 
    ##### Rule
    ```
-   {"type": "data", "scope": "remove-row", "release": "major"},
+   {"type": "data", "scope": "remove-row", "release": "minor"},
    ```
 
    ##### Commit message

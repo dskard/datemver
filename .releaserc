@@ -19,6 +19,12 @@
     ],
     "@semantic-release/release-notes-generator",
     [
+      "@semantic-release/changelog",
+      {
+        "changelogFile": "CHANGELOG.md"
+      }
+    ],
+    [
       "@semantic-release/exec",
       {
         "prepareCmd": "./bin/build_release ${nextRelease.version} \"${nextRelease.notes}\""
@@ -39,7 +45,8 @@
       "@semantic-release/git",
       {
         "assets": [
-          "VERSION"
+          "VERSION",
+          "CHANGELOG.md"
         ],
         "message": "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }

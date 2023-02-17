@@ -94,3 +94,16 @@ semantic versioning of data
    ```
    data(replace): changing the value in the data set, but not removing or adding new columns or rows
    ```
+
+# Base Commit Messages
+
+1. Fix a non-data related bug
+
+   ##### Result
+   Bump the patch version to signal that a bug has been fixed.
+
+   ##### Commit message
+   ```
+   fix: one less bug
+   ```
+

@@ -79,3 +79,18 @@ semantic versioning of data
    ```
    data(change-values): changing the value in the data set, but not removing or adding new columns or rows
    ```
+
+6. Replace whole data set (yearly update of data)
+
+   ##### Result
+   Bump the major version to signal that this is a whole new set of data, unrelated to previous versions of the data set.
+
+   ##### Rule
+   ```
+   {"type": "data", "scope": "replace", "release": "major"},
+   ```
+
+   ##### Commit message
+   ```
+   data(replace): changing the value in the data set, but not removing or adding new columns or rows
+   ```

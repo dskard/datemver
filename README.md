@@ -64,3 +64,18 @@ semantic versioning of data
    ```
    data(remove-column): remove columns from the data set
    ```
+
+5. Changing values in a previously published data set
+
+   ##### Result
+   Bump the patch version because we have made a change to values in the data set, but have not changed the shape of the data set in a way that could brake the way people previously read the data.
+
+   ##### Rule
+   ```
+   {"type": "data", "scope": "change-values", "release": "patch"},
+   ```
+
+   ##### Commit message
+   ```
+   data(change-values): changing the value in the data set, but not removing or adding new columns or rows
+   ```

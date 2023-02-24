@@ -1,5 +1,4 @@
 # datemver
-
 semantic versioning of data
 
 # Custom Commit Messages

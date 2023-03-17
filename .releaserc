@@ -17,7 +17,18 @@
         ]
       }
     ],
-    "@semantic-release/release-notes-generator",
+    [
+      "@semantic-release/release-notes-generator",
+      {
+        "preset": "angular",
+        "presetConfig": {
+          "types": [
+            {"type": "data", "section": "Data"},
+            {"type": "fix", "section": "Fixes"}
+          ]
+        }
+      }
+    ],
     [
       "@semantic-release/changelog",
       {

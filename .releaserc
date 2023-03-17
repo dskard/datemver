@@ -24,7 +24,7 @@
         "presetConfig": {
           "types": [
             {"type": "data", "section": "Data", "hidden": false},
-            {"type": "fix", "section": "Fixes", "hidden": false}
+            {"type": "fix", "section": "Fixed", "hidden": false}
           ]
         }
       }

@@ -23,8 +23,8 @@
         "preset": "angular",
         "presetConfig": {
           "types": [
-            {"type": "data", "section": "Data"},
-            {"type": "fix", "section": "Fixes"}
+            {"type": "data", "section": "Data", "hidden": false},
+            {"type": "fix", "section": "Fixes", "hidden": false}
           ]
         }
       }

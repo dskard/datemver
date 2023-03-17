@@ -1,3 +1,5 @@
+# [4.2.0](https://github.com/dskard/datemver/compare/v4.1.1...v4.2.0) (2023-03-17)
+
 ## [4.1.1](https://github.com/dskard/datemver/compare/v4.1.0...v4.1.1) (2023-02-24)
 
 

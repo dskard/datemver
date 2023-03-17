@@ -1,3 +1,10 @@
+## [4.2.2](https://github.com/dskard/datemver/compare/v4.2.1...v4.2.2) (2023-03-17)
+
+
+### Bug Fixes
+
+* testing .releaserc overriding changelog Bug Fixes section ([4992f97](https://github.com/dskard/datemver/commit/4992f97dac22a0e19e25322a7f80a947783bc65d))
+
 ## [4.2.1](https://github.com/dskard/datemver/compare/v4.2.0...v4.2.1) (2023-03-17)
 
 # [4.2.0](https://github.com/dskard/datemver/compare/v4.1.1...v4.2.0) (2023-03-17)

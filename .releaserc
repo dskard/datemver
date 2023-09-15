@@ -6,27 +6,13 @@
     [
       "@semantic-release/commit-analyzer",
       {
-        "preset": "angular",
-        "releaseRules": [
-          {"type": "data", "scope": "add", "release": "minor"},
-          {"type": "data", "scope": "add-*", "release": "minor"},
-          {"type": "data", "scope": "remove-row", "release": "minor"},
-          {"type": "data", "scope": "remove-column", "release": "major"},
-          {"type": "data", "scope": "change-values", "release": "patch"},
-          {"type": "data", "scope": "replace", "release": "major"}
-        ]
+        "preset": "data",
       }
     ],
     [
       "@semantic-release/release-notes-generator",
       {
-        "preset": "angular",
-        "presetConfig": {
-          "types": [
-            {"type": "data", "section": "Data", "hidden": false},
-            {"type": "fix", "section": "Fixed", "hidden": false}
-          ]
-        }
+        "preset": "data",
       }
     ],
     [

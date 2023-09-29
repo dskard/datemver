@@ -1,3 +1,10 @@
+## [4.2.3](https://github.com/dskard/datemver/compare/v4.2.2...v4.2.3) (2023-09-29)
+
+
+### Bug Fixes
+
+* testing angular preset and commit message ([ede25aa](https://github.com/dskard/datemver/commit/ede25aa49f4a0680fd548da870a4b604761735c0))
+
 ## [4.2.2](https://github.com/dskard/datemver/compare/v4.2.1...v4.2.2) (2023-03-17)
 
 

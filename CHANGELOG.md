@@ -1,3 +1,10 @@
+## [4.2.4](https://github.com/dskard/datemver/compare/v4.2.3...v4.2.4) (2023-09-29)
+
+
+### Bug Fixes
+
+* testing data preset and commit message ([6a97fe7](https://github.com/dskard/datemver/commit/6a97fe7c638ddc5b7e39f75ee6e32fe7594cb147))
+
 ## [4.2.3](https://github.com/dskard/datemver/compare/v4.2.2...v4.2.3) (2023-09-29)
 
 

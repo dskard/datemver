@@ -9,9 +9,9 @@ jobs:
   release:
     runs-on: ubuntu-latest
     env:
-      DEBUG: semantic-release:commit-analyzer
-      NODE_DEBUG: semantic-release:commit-analyzer
-      NODE_ENV: *
+      DEBUG: "semantic-release:commit-analyzer"
+      NODE_DEBUG: "semantic-release:commit-analyzer"
+      NODE_ENV: dev
     steps:
       - name: Checkout
         uses: actions/checkout@v3

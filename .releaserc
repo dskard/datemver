@@ -6,13 +6,13 @@
     [
       "@semantic-release/commit-analyzer",
       {
-        "preset": "angular",
+        "preset": "data",
       }
     ],
     [
       "@semantic-release/release-notes-generator",
       {
-        "preset": "angular",
+        "preset": "data",
       }
     ],
     [

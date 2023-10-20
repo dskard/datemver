@@ -7,8 +7,7 @@
       "@semantic-release/commit-analyzer",
       {
         "preset": "data",
-        "config": "conventional-changelog-data",
-        "releaseRules": "conventional-changelog-data",
+        "config": "conventional-changelog-data"
       }
     ],
     [

@@ -1,3 +1,10 @@
+# [4.4.0](https://github.com/dskard/datemver/compare/v4.3.0...v4.4.0) (2023-12-22)
+
+
+### data
+
+* **add:** use conventional-changelog-data-rules pkg ([df77379](https://github.com/dskard/datemver/commit/df77379a81cfff534eab9df21cb2a565903226f6))
+
 # [4.3.0](https://github.com/dskard/datemver/compare/v4.2.4...v4.3.0) (2023-11-17)
 
 

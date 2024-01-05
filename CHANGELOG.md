@@ -1,3 +1,15 @@
+# [6.2.0](https://github.com/dskard/datemver/compare/v6.1.0...v6.2.0) (2024-01-05)
+
+
+### Data Changed
+
+* **change-values:** should bump patch ([ca84932](https://github.com/dskard/datemver/commit/ca8493291b0c23038a2d4c329d97027fa7c03416))
+
+
+### Data Removed
+
+* **remove-row:** should bump minor, sets max bump to minor ([9f0d458](https://github.com/dskard/datemver/commit/9f0d4581dd8a7ac9312c46eb2dcc94ff6ade40ef))
+
 # [6.1.0](https://github.com/dskard/datemver/compare/v6.0.0...v6.1.0) (2024-01-05)
 
 

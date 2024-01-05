@@ -1,3 +1,10 @@
+## [5.0.1](https://github.com/dskard/datemver/compare/v5.0.0...v5.0.1) (2024-01-05)
+
+
+### Data Changed
+
+* **change-values:** changing the value in the data set ([ead8f45](https://github.com/dskard/datemver/commit/ead8f452b51e58b7ec67c4597a647d0603dcc831))
+
 # [5.0.0](https://github.com/dskard/datemver/compare/v4.7.0...v5.0.0) (2024-01-05)
 
 

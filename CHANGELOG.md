@@ -1,3 +1,10 @@
+# [4.7.0](https://github.com/dskard/datemver/compare/v4.6.0...v4.7.0) (2024-01-05)
+
+
+### Data Removed
+
+* **remove-row:** remove rows from the data set ([1046cd5](https://github.com/dskard/datemver/commit/1046cd50766241c427183fe08ef61d12986fa94c))
+
 # [4.6.0](https://github.com/dskard/datemver/compare/v4.5.0...v4.6.0) (2024-01-05)
 
 

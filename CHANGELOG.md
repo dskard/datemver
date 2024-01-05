@@ -1,3 +1,11 @@
+# [6.1.0](https://github.com/dskard/datemver/compare/v6.0.0...v6.1.0) (2024-01-05)
+
+
+### Data Added
+
+* **add-row:** first add should bump minor ([621ba0c](https://github.com/dskard/datemver/commit/621ba0c747a4d85c56051db18135a95a2e114c1e))
+* **add-row:** Second add-row should keep bump at minor ([f2e3340](https://github.com/dskard/datemver/commit/f2e33404aa7e530d641b18015958f874a071ecc9))
+
 # [6.0.0](https://github.com/dskard/datemver/compare/v5.0.1...v6.0.0) (2024-01-05)
 
 

@@ -1,3 +1,20 @@
+# [7.0.0](https://github.com/dskard/datemver/compare/v6.2.0...v7.0.0) (2024-01-05)
+
+
+### Data Added
+
+* **add-column:** should keep max at major ([8b062d5](https://github.com/dskard/datemver/commit/8b062d577ea5584b8874f01c68c24ada3e653ab1))
+
+
+### Data Changed
+
+* **change-values:** should keep max at major ([2a30529](https://github.com/dskard/datemver/commit/2a30529b76724861da3ef27d7aba8c6fe0892e89))
+
+
+### Data Removed
+
+* **remove-column:** should set max to major ([6c6f110](https://github.com/dskard/datemver/commit/6c6f110a886777b029c7626e63126aff72fa001a))
+
 # [6.2.0](https://github.com/dskard/datemver/compare/v6.1.0...v6.2.0) (2024-01-05)
 
 

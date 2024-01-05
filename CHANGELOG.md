@@ -1,3 +1,10 @@
+# [4.5.0](https://github.com/dskard/datemver/compare/v4.4.0...v4.5.0) (2024-01-05)
+
+
+### Data Added
+
+* **add-row:** added new rows to the data set ([4513d98](https://github.com/dskard/datemver/commit/4513d986d279ab5bc9516048fe49932c3b08a5aa))
+
 # [4.4.0](https://github.com/dskard/datemver/compare/v4.3.0...v4.4.0) (2023-12-22)
 
 
